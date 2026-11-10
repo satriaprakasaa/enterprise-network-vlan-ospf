@@ -59,6 +59,6 @@ Skenario ini membuktikan arsitektur *High Availability*. Ping tanpa henti (`ping
 
 ## 🛠 Cara Penggunaan (How to Use)
 1. Unduh file `Enterprise-Network-Failover.pkt` dari repositori ini.
-2. Buka menggunakan **Cisco Packet Tracer** (Rekomendasi: Versi 8.0 atau lebih baru).
+2. Buka menggunakan **Cisco Packet Tracer** (Rekomendasi: Versi 9.0.1 atau lebih baru).
 3. Kata sandi mode `enable` (jika diminta): `admin` *(Ganti jika Anda memasang password di konfigurasi)*.
 4. Lakukan eksperimen Anda sendiri dengan mematikan port pada SW-Core untuk melihat algoritma OSPF bekerja secara otomatis.
