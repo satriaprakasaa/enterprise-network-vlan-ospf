@@ -1,4 +1,4 @@
-# Multi-Department Enterprise Network with VLAN Segmentation and OSPF Redundancy
+# [PERSONAL PROJECT] Multi-Department Enterprise Network with VLAN Segmentation and OSPF Redundancy
 
 Sebuah simulasi arsitektur jaringan skala Enterprise yang dirancang menggunakan **Cisco Packet Tracer**. Proyek ini mengimplementasikan segmentasi departemen menggunakan VLAN, alokasi IP efisien dengan VLSM, Inter-VLAN Routing (SVI), dan High Availability (Redundancy) pada jalur tulang punggung (backbone) menggunakan protokol *dynamic routing* OSPF.
 
